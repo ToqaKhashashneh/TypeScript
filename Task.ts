@@ -24,7 +24,7 @@ console.log("Expensive prices for items are: " );
     let Numbers: number [] = [1,2,3,4,5,6,7]
     let sum =0;
     for (let i=0 ; i<Numbers.length ; i++){
-        sum= sum + i;
+        sum= sum +Numbers[i];
     }
 
     console.log("The Sum is " + sum)
