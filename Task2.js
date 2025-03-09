@@ -22,8 +22,8 @@ teachers.forEach(function (teacher) {
     console.log(teacher.name + " teaches " + teacher.subjects);
 });
 var Products = [
-    { name: "Heart shaped Earrings", price: 15.00, quantity: 10 },
-    { name: " Pearl Necklace ", price: 20.00, quantity: 12 },
+    { name: "Heart Shaped Earrings", price: 15.00, quantity: 10 },
+    { name: " Gold Necklace ", price: 20.00, quantity: 12 },
     { name: " Set Of Rubber Hair Ties", price: 5.00, quantity: 4 }
 ];
 // function Modify(Products) {
