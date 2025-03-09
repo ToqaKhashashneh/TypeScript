@@ -17,6 +17,6 @@ for (var i = 0; i < Prices.length; i++) {
 var Numbers = [1, 2, 3, 4, 5, 6, 7];
 var sum = 0;
 for (var i = 0; i < Numbers.length; i++) {
-    sum = sum + i;
+    sum = sum + Numbers[i];
 }
-console.log("The Sum is" + sum);
+console.log("The Sum is " + sum);
