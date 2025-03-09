@@ -24,7 +24,7 @@ teachers.forEach(function (teacher) {
 var Products = [
     { name: "Heart Shaped Earrings", price: 15.00, quantity: 10 },
     { name: " Gold Necklace ", price: 20.00, quantity: 12 },
-    { name: " Set Of Rubber Hair Ties", price: 5.00, quantity: 4 }
+    { name: " Set Of Silicon Hair Ties", price: 5.00, quantity: 4 }
 ];
 // function Modify(Products) {
 //     if (Products.quantity<5)
